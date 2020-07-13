@@ -1,12 +1,12 @@
 {
-  "name": "repo-template",
-  "version": "2.1.3",
-  "description": "A Basic Repository Template for Generic Projects",
+  "name": "learn-gatsby",
+  "version": "0.0.0",
+  "description": "Links, resources, and code related to my learning of the Gatsby framework.",
   "author": "PatEvs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patevs/repo-template.git"
+    "url": "git+https://github.com/patevs/learn_gatsby.git"
   },
   "engines": {
     "node": ">=10",
