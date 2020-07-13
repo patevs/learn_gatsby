@@ -1,20 +1,45 @@
-# Repo Template
+# Learn Gatsby
 
-> A Basic Repository Template for Generic Projects
+> [`Gatsby`](https://github.com/gatsbyjs/gatsby) is a free and open source framework based on `React` that helps developers build blazing fast websites and apps.
 
 ---
 
 ## Links & Resources
 
-* [`commitizen/cz-cli`](https://github.com/commitizen/cz-cli)
-  * [`cz-emoji`](https://github.com/ngryman/cz-emoji)
-* [`commitlint`](https://github.com/conventional-changelog/commitlint)
-* [`husky`](https://github.com/typicode/husky)
+- [Website](https://www.gatsbyjs.org/)
+- [Documentation](https://www.gatsbyjs.org/docs/)
 
-[](.)
+---
 
-* [`np`](https://github.com/sindresorhus/np) A better npm publish.
-* [`release-it`](https://github.com/release-it/release-it) Automate versioning and package publishing.
+## Quick Start
+
+1. Install the Gatsby CLI.
+
+    ```bash
+    npm install -g gatsby-cli
+    ```
+
+2. Create a Gatsby site from a Gatsby starter.
+
+    Get your Gatsby blog set up in a single command:
+
+    ```bash
+    # create a new Gatsby site using the default starter
+    gatsby new my-blazing-fast-site
+    ```
+
+3. Start the site in develop mode.
+
+    Next, move into your new site’s directory and start it up:
+
+    ```bash
+    cd my-blazing-fast-site/
+    gatsby develop
+    ```
+
+4. Open the source code and start editing!
+
+    Your site is now running at `http://localhost:8000`. Open the `my-blazing-fast-site` directory in your code editor of choice and `edit src/pages/index.js`. Save your changes, and the browser will update in real time!
 
 ---
 
