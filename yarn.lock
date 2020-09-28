@@ -49,16 +49,6 @@
     resolve-from "5.0.0"
     resolve-global "1.0.0"
 
-"@commitlint/core@^9.1.1":
-  version "9.1.1"
-  resolved "https://registry.yarnpkg.com/@commitlint/core/-/core-9.1.1.tgz#dee1512c5779a01a0f21dcbd464e5efd0f69a0ec"
-  integrity sha512-9p7OUxeHtxNCULC3/R1t6cLGXBWYI0b4RSHL0A9Z42ZHkhXxUnG7+LA9iBObUtnHaPKcRD6ktJuCijHcaHee6Q==
-  dependencies:
-    "@commitlint/format" "^9.1.1"
-    "@commitlint/lint" "^9.1.1"
-    "@commitlint/load" "^9.1.1"
-    "@commitlint/read" "^9.1.1"
-
 "@commitlint/ensure@^9.1.1":
   version "9.1.1"
   resolved "https://registry.yarnpkg.com/@commitlint/ensure/-/ensure-9.1.1.tgz#0143f2c34a27fcd7fb91b7a5029de84a0f416b93"
